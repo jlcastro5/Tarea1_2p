@@ -3,8 +3,9 @@
 
    Objetivo general
 
-
-    Objetivos específicos
+   Explicar el analisis en relaciones de circuitos en serie - paralelo lo cual nos permitira identificar las caracteristicas correspondiente de cada tema de desarrollo para poder resolver y lograr resolver cualquier tipo de circuito con un analisis y razonamiento adecuado.
+   
+   Objetivos específicos
 
       * 
 
