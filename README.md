@@ -7,7 +7,8 @@
    
    Objetivos específicos
 
-      * 
+      * Identificar de una manera concreta los diferentes circuitostanto en serie-paralelo para poder encontrar valores como la intensidad, voltaje y su resistencia total
+      * Analizar de forma correcta el analisis mediante diferentes tipos de analisis de circuitos en este caso por superposicion o por thevenin y asu vez conocer claramente su proceso y el analisis correcto para encontrar diferentes resultados a obtener.
 
 2. MARCO TEORICO
 
@@ -380,6 +381,8 @@
      
      ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-70.PNG)
      
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/1353a30a725bb54e394b6b5f2ee8af643e804f09/8-9.PNG)
+     
      11.En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con
      el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de
      lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kÆ, ¿cuál es el 
@@ -391,10 +394,16 @@
      
      ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-73.PNG)
      
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/1353a30a725bb54e394b6b5f2ee8af643e804f09/8-13.PNG)
+     
      *15.La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las 
      baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B)
      
      ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-75.PNG)
+     
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/1353a30a725bb54e394b6b5f2ee8af643e804f09/8-15A.PNG)
+     
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/1353a30a725bb54e394b6b5f2ee8af643e804f09/8-15B.PNG)
 
       
      *SECCIÓN 8–5 Teorema de Thevenin*
@@ -402,6 +411,8 @@
       17.Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77. 
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-77.PNG)
+      
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/1353a30a725bb54e394b6b5f2ee8af643e804f09/8-17.PNG)
       
       19.Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79
       
@@ -516,9 +527,12 @@
   
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=-ByMCfgt2p0
 
 5. CONCLUSIONES
+
+   * El analisis que tocaba realizar en cada  circuito tanto para encontrar valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento y circuilacion de corriente en circuitos serie-paralelo
+   * Mediante cada ejercicio realizado y armado esquematicamente utilizando diferentes software como multiim, proteus que son herramientas para poder analizar y verificar resultados calculados mediante resultados medidos con los simuladores.
 
 
 
