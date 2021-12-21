@@ -84,8 +84,16 @@
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-62.PNG)
       
+      Literal A
+      
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/d6724390ffbfc24e8f4bff41b982233f8d1308b9/ITVT.PNG)
+      
+      Literal B
+      
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/d6724390ffbfc24e8f4bff41b982233f8d1308b9/ITVTb.PNG)
+      
+      Literal C
+      
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/d6724390ffbfc24e8f4bff41b982233f8d1308b9/ITVTc.PNG)
       
       
@@ -148,11 +156,21 @@
       29.En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-74.PNG)
+      
+      Voltaje de salida realizando con la formula conocida y el dato de la cara de 33 kΩ Obtendremos el voltaje  : 8.8 V
 
       *31.Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes
       especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente
       tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el
       efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
+      
+      Podemos encontrar el valor de la R1 : 1000 Ω
+      
+      Para las resistencias R2 = R3 = 500 Ω
+      
+      Parte inferior de la carga =>  Vinferior = 1.82 V, Vsuperior = 4.55 V
+      
+      Parte superior de la carga =>  Vinferior = 1.67 V, Vsuperior = 3.33 V
       
       *33.La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de
       campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd
@@ -164,9 +182,25 @@
       
       a) Encuentre VG y VS 
       
+      VG= 1.75 V
+      
+      VS= 3.25 V
+      
       b) Determine I1, I2, ID, e IS 
       
+      I1 = 6.48 µA
+      
+      I2 = 6.48 µA
+      
+      ID= 2.18 mA 
+      
+      IS= 2.18 mA
+      
       c) Encuentre VDS y VDG 
+      
+      VDS= 2.6 V
+      
+      VDG= 4.1 V
       
      *SECCIÓN 7–4 Efecto de carga de un voltímetro*
      
@@ -175,7 +209,7 @@
       
       a) 1 V  b) 10 V c) 100 V  d)1000 V
       
-      La minimacarga que puede haber en un circuito es de 1000V
+      La minima carga que puede haber en un circuito es de 1000V
       
       37.El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 
       en la figura 7-62(a).
@@ -288,6 +322,8 @@
 
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-84.PNG)
       
+      La manera correcta de medicion del voltimetro de dicha figura es de ka siguiente manera: la cual el voltaje es de 4.39 V
+      
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/1a67b20dab10b3592a80362ef3a2d0b43b99993c/49.PNG)
 
       51.En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla
@@ -300,9 +336,7 @@
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-88.PNG)
       
-      Puedo observar que hay un tramo abierto en la resistencia R3 por lo que la falla en dicho circuito se encuentra en dicha resistencia 
-      
-      
+      Podemos observar que hay un tramo abierto en la resistencia R3 por lo que la falla en dicho circuito se encuentra en dicha resistencia 
       
    **CAPITULO 8**
       
