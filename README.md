@@ -398,10 +398,21 @@
       19.Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-79.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/1.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/2.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/3.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/4.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/5.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/6.PNG)
+      
       
       *21.Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-81.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/7.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/8.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/9.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/10.PNG)
       
       
      *SECCIÓN 8–6 Teorema de Norton* 
@@ -410,18 +421,40 @@
       visto por RL.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-76.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/11.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/12.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/13.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/14.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/15.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/16.PNG)
+      
       
       *25.Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-78.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/17.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/18.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/19.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/20.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/21.PNG)
+      
       
       27.Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-81.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/22.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/23.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/24.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/25.PNG)
+      
 
       29.Aplique el teorema de Norton al circuito de la figura 8-84.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-84.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/26.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/27.PNG)
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/493a3192ee5c2910c1979f82f0fe5a904b001a75/28.PNG)
+ 
       
       
      *SECCIÓN 8–7 Teorema de transferencia de potencia máxima*
