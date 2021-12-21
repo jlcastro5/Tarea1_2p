@@ -57,6 +57,8 @@
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-63.PNG)
       
+      Paara su representacion utilizamos el software de proteus el cual nos permite crear diseño en PCB con el analisis y colocacion correspondiente de todas las resistencias respecto a la figura señalada.
+      
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/4841845be360e5f9306a1d84672888c01424a51f/FIGURA7-64_C.PNG)
       
       
@@ -115,14 +117,22 @@
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-68.PNG)
       
+      Medir el voltaje en A y el voltaje en B con respecto a tierra. La diferencia es VR2.
+      
       19.Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la 
       fuente de voltaje.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-68.PNG)
       
+      La resistencia del circuito mostrado nos da un valor de 306 kΩ
+      
       *21.(a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura7-70.PNG)
+      
+      a) 110.5 kΩ
+      
+      b) 110.5 mW
       
       *23.Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados 
       en la figura 7-72: AB, BC y CD.
