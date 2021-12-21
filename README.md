@@ -504,11 +504,15 @@
       
       
       
+      
+      
      *SECCIÓN 8–7 Teorema de transferencia de potencia máxima*
     
       31.En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-86.PNG)
+      
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/8df1f1554f4cf548c6eb6cef7c46804a6b3128c8/29.PNG)
       
       33.¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada
       a la red en configuración de escalera de la figura 8-87?
