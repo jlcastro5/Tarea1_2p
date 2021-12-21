@@ -356,17 +356,25 @@
      1.Una fuente de voltaje tiene los valores VS  300 V y RS  50 Ω. Conviértala en una fuente de corriente 
      equivalente. 
      
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/7b95bb40d7a827c951c27e7af18f8f9e227ab588/8-1.PNG)
+     
      3.Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A
      a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+     
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/7b95bb40d7a827c951c27e7af18f8f9e227ab588/8-3.PNG)
     
      5.Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kΩ. Conviértala en una fuente de voltaje equivalente
 
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/7b95bb40d7a827c951c27e7af18f8f9e227ab588/8-5.PNG)
 
      *SECCIÓN 8–4 El teorema de superposición*
      
      7.Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69. 
      
      ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-69.PNG)
+     
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/7b95bb40d7a827c951c27e7af18f8f9e227ab588/8-7.1.PNG)
+     ![](https://github.com/jlcastro5/Tarea1_2p/blob/7b95bb40d7a827c951c27e7af18f8f9e227ab588/8-7.2.PNG)
      
      9.Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
      
