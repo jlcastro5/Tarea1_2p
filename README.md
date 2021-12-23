@@ -519,7 +519,7 @@ Objetivos específicos
       
       ![](https://github.com/jlcastro5/Tarea1_2p/blob/65569fe3c94f13dc646a7445c7a88745dda5f713/30.PNG) 
       
-       ![](https://github.com/jlcastro5/Tarea1_2p/blob/65569fe3c94f13dc646a7445c7a88745dda5f713/30.PNG)
+
        
      *SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆*
      
