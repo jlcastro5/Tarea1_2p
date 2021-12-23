@@ -7,8 +7,8 @@ Explicar y resolver los problemas presentados en los capítulos siete y ocho del
 
 Objetivos específicos 
   
-      * Identificar de una manera concreta las resistencias Thévenin, voltaje Thévenin y corriente de Norton en un circuito eléctrico mixto con farias fuentes de voltaje e intensidad. 
-      *  Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de forma teórica.
+   * Identificar de una manera concreta las resistencias Thévenin, voltaje Thévenin y corriente de Norton en un circuito eléctrico mixto con farias fuentes de voltaje e intensidad. 
+   *  Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de forma teórica.
 
 2. MARCO TEORICO
 
