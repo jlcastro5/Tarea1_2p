@@ -535,8 +535,9 @@ https://www.youtube.com/watch?v=-ByMCfgt2p0
 
 5. CONCLUSIONES
 
-   * El analisis que tocaba realizar en cada  circuito tanto para encontrar valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento y circuilacion de corriente en circuitos serie-paralelo
-   * Mediante cada ejercicio realizado y armado esquematicamente utilizando diferentes software como multiim, proteus que son herramientas para poder analizar y verificar resultados calculados mediante resultados medidos con los simuladores.
+   * El analisis por medio de Thevenin y Norton permitio aplicar los metodos ya conocidos de resolucion de circuitos electricos de practicas anteriores, otrogo resultados confiables ya que fueron simulados en Multisim, cada  circuito reporto valores como resistencia total o corrientes en cada componente de dicho circuito para permitir obtener resultados y un analisis correcto, por lo tanto llegamos a comprender de una manera el funcionamiento del equivalente Thevenin y Norton.
+   
+   * Mediante cada ejercicio realizado se ha podido determinar los usos que tiene la Equivalente Thevenin y sus relacion con el voltaje, de igual forma el equivalente Nortony su resectiva relacion con la corriente. Es asi que por medio del armado esquematicamente utilizando diferentes software como multiim, proteus que son herramientas para poder analizar y verificar resultados calculados mediante resultados medidos con los simuladores.
 
 
 
