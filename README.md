@@ -517,13 +517,17 @@ Objetivos específicos
       33.¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada
       a la red en configuración de escalera de la figura 8-87?
       
-      ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-87.PNG) 
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/65569fe3c94f13dc646a7445c7a88745dda5f713/30.PNG) 
       
+       ![](https://github.com/jlcastro5/Tarea1_2p/blob/65569fe3c94f13dc646a7445c7a88745dda5f713/30.PNG)
+       
      *SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆*
      
      35.En la figura 8-89, convierta cada red Y en una red delta. 
      
      ![](https://github.com/jlcastro5/Tarea1_2p/blob/a0e435a23f5ed5b30bd1396938dfac21e6009f9b/Figura8-89.PNG)
+     
+      ![](https://github.com/jlcastro5/Tarea1_2p/blob/65569fe3c94f13dc646a7445c7a88745dda5f713/31.PNG)
 
      
       
