@@ -3,12 +3,12 @@
 
    Objetivo general
 
-   Explicar el analisis en relaciones de circuitos en serie - paralelo lo cual nos permitira identificar las caracteristicas correspondiente de cada tema de desarrollo para poder resolver y lograr resolver cualquier tipo de circuito con un analisis y razonamiento adecuado.
-   
-   Objetivos específicos
+Explicar y resolver los problemas presentados en los capítulos siete y ocho del libro "Principios de circuitos eléctricos" de Floyd mediante el uso de los conocimientos adquiridos en clases y el contenido del libro referente equivalente Thévenin y Norton para encontrar un voltaje equivalente o una corriente equivalente para ejecutar el análisis de un circuito eléctrico de manera ágil, permitiéndonos identificar las características correspondientes y lograr resolver cualquier tipo de circuito con un análisis y razonamiento adecuado. 
 
-      * Identificar de una manera concreta los diferentes circuitostanto en serie-paralelo para poder encontrar valores como la intensidad, voltaje y su resistencia total
-      * Analizar de forma correcta el analisis mediante diferentes tipos de analisis de circuitos en este caso por superposicion o por thevenin y asu vez conocer claramente su proceso y el analisis correcto para encontrar diferentes resultados a obtener.
+Objetivos específicos 
+  
+      * Identificar de una manera concreta las resistencias Thévenin, voltaje Thévenin y corriente de Norton en un circuito eléctrico mixto con farias fuentes de voltaje e intensidad. 
+      *  Analizar de forma correcta los resultaos obtenidos, establecer la relación de los componentes en un simulador virtual y corroborar los resultados obtenidos de forma teórica.
 
 2. MARCO TEORICO
 
